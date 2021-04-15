@@ -1,6 +1,6 @@
 
 /* Global Variables */
-const key = "75a3998c44142976647864fe7d932d16";
+const key = "75a3998c44142976647864fe7d932d16&units=metric";
 // Create a new date instance dynamically with JS
 let d = new Date();
 let newDate = d.getMonth()+1 +'.'+ d.getDate()+'.'+ d.getFullYear();
